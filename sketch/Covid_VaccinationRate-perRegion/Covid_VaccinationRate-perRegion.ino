@@ -105,7 +105,7 @@ void updateMap() {
     }
     Serial.print("Region: ");
     Serial.print(regionCode);
-    Serial.print(", new cases: ");
+    Serial.print(", percentage: ");
     Serial.println(regionPercentage);
 
     setPixelColor(regionCode, regionPercentage);
