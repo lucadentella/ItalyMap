@@ -10,6 +10,7 @@ ItalyMap is an electronic project to create a dynamic map of Italy. Thanks to th
  - **sketch**, Arduino programs (esp8266 board) / *programmi Arduino (scheda esp8266)*
  	 - Test_Italian-Flag, displays italian flag / *visualizza la bandiera italiana*
 	 - Covid_NewCases-perRegion, displays the new Covid-19 cases / *visualizza i nuovi casi di Covid-19*
+	 - Covid_VaccinationRate-perRegion, displays the vaccination rate / *visualizza il numero di vaccinazioni*
 ## Partlist / *Elenco componenti*
  - [SK6812 MINI-E](https://www.aliexpress.com/item/4000475685852.html) addressable LED
  - 1x03 pinhead
@@ -18,3 +19,6 @@ ItalyMap is an electronic project to create a dynamic map of Italy. Thanks to th
  ![](https://github.com/lucadentella/ItalyMap/raw/main/images/flag.jpg)
 ### Covid_NewCases-perRegion:
  ![](https://github.com/lucadentella/ItalyMap/raw/main/images/covid19.jpg)
+### Covid_VaccinationRate-perRegion:
+ ![](https://github.com/lucadentella/ItalyMap/raw/main/images/vaccine.jpg)
+ 
